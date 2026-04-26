@@ -139,6 +139,8 @@
   An ongoing Rust implementation of a Zcash node.
 - [Zero-chain](https://github.com/LayerXcom/zero-chain).
   A privacy-preserving blockchain on Substrate.
+- [RustChain](https://github.com/Scottcjn/Rustchain).
+  Proof-of-Antiquity blockchain that rewards vintage hardware. Older computers earn higher yields.
 
 ## Blockchain Frameworks
 - [Substrate](https://github.com/paritytech/substrate).
